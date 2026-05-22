@@ -1,0 +1,6 @@
+﻿Fayl,Tavsif,Hajm
+**[index.html](sandbox:///mnt/agents/output/index.html)**,Yangilangan dashboard (token'siz),77 KB
+**[bot.py](sandbox:///mnt/agents/output/bot.py)**,Telegram bot (Excel → JSON → GitHub),18 KB
+**[deploy.yml](sandbox:///mnt/agents/output/deploy.yml)**,GitHub Actions (avtomatik deploy),1 KB
+**[requirements.txt](sandbox:///mnt/agents/output/requirements.txt)**,Python kutubxonalar,1 KB
+**[QOLLANMA.md](sandbox:///mnt/agents/output/QOLLANMA.md)**,To'liq qo'llanma,5 KB
